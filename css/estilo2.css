@@ -1,0 +1,42 @@
+.menu ul{
+    list-style: none;
+}
+.menu li{
+    list-style: none;
+    padding-bottom: 6px;    
+    border-bottom: 1px dotted darkblue;
+    
+    list-style-image: url('../imagens/plus.jpg');
+
+}
+.menu ol{
+
+    list-style: none;
+}
+a{
+
+    text-decoration: none;
+    color: green;
+}
+
+a:hover{
+    background-color: chocolate;
+}
+a:active{
+    background-color: yellow;
+}
+
+
+.caixa{
+    border: 10px #ff0000 solid;
+    padding: 10px;
+    border-radius: 15px;
+}
+.menu{
+    
+    border: 1px #333 solid;
+
+}
+.menu h1{
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    list-style: italic;
+    letter-spacing: 0.3em;
+    word-spacing: .5em;
+}
+a{
+    text-decoration: chartreuse;
+
+}
+h2{
+    color: #ff0000 ; background-color: aqua;
+}
+h3{
+    border: solid red;
+    padding: 20px 100px;
+    margin: 50px 10px 50px 40px;
+    background-color: cyan;
+}
+p{
+    color: blue;
+    background-color: aquamarine;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    
+}

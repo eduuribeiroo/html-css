@@ -1,0 +1,16 @@
+.meuform{
+    padding: 20px;
+    background-color: rgb(148, 148, 207);
+    margin: 5px;
+    border: 1px solid coral;
+}
+.meuform .form-group{
+    padding-bottom: 15px;
+}
+.meuform label {
+    display: block;
+}
+.meuform input[type="text"], input[type="email"]{
+    padding: 8px;
+    width: 100%;
+}
