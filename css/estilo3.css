@@ -1,16 +1,38 @@
-.meuform{
+.botao {
+    background-color: #000000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+}
+.botao:hover{
+    color: darkgrey;
+    background-color: rgb(201, 36, 36);
+}
+
+.meuForm{
     padding: 20px;
-    background-color: rgb(148, 148, 207);
+    background-color: rgb(166, 166, 187);
     margin: 5px;
     border: 1px solid coral;
 }
-.meuform .form-group{
+.meuForm .form-group{
     padding-bottom: 15px;
+    padding-right: 20px;
 }
-.meuform label {
+.meuForm label {
     display: block;
 }
-.meuform input[type="text"], input[type="email"]{
+.meuForm input[type="text"], input[type="email"], textarea{
     padding: 8px;
     width: 100%;
+}
+.meuForm input [type="submit"]{
+    background-color: #000000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+}
+.meuForm label{
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

@@ -1,0 +1,24 @@
+.clr{
+    clear: both;
+}
+.bloco{
+width: 33.3%;
+float: left;
+border: 1px solid #ccc;
+padding: 10px;
+box-sizing: border-box;
+}
+#principal{
+    float: left;
+    width: 70%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+#aside{
+    float: right;
+    width: 30%;
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+    box-sizing: border-box;
+}
